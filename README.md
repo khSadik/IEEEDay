@@ -8,7 +8,8 @@ We will be each contributing to this repository and learn about some important G
 paste the following code into the terminal after you have added your name into this file
 
 `git add README.md`
-
+`git commit -m 'added my name to contributors list'
+`git push origin HEAD`
 
 ## Contributors
 
